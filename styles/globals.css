@@ -40,14 +40,3 @@ a {
     color-scheme: dark;
   }
 }
-
-nav {
-  display: flex;
-  justify-content: center;
-}
-
-ul {
-  display: flex;
-  gap: 24px;
-  list-style: none;
-}
